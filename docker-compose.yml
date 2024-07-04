@@ -1,0 +1,7 @@
+version: "3.7"
+
+services:
+    botflix:
+        image: botflix
+        command: python main.py
+
